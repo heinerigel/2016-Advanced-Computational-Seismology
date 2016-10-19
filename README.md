@@ -22,7 +22,14 @@ Room to be announced
 
 | Date  |   Topic |  Students |   Misc |  
 |---|---|---|---|
-|  Nov 1  |  GitHub |   | Introduction, Applications |
-|   |   |   |   |
-|   |   |   |   |
+|  Nov 2  |  GitHub |   | Introduction, Applications |
+|  Nov 9  |   |   |   |
+|  Nov 16 |   |   |   |
+|  Nov 23 |   |   |   |
+|  Nov 30 |   |   |   |
+|  Dec  7  |   |   |   |
+|  Dec 21 |   |   |   |
+|  Jan 18 |   |   |   |
+|  Jan 25 |   |   |   |
+|  Feb  1 |   |   |   |
 
