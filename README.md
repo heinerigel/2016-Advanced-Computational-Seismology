@@ -1,7 +1,7 @@
 # 2016-Advanced-Computational-Seismology
 Course material for the Seminar on Advanced Methods Winter Term 2016
 
-<p style="width:20%;float:right;padding-left:50px">
+<p style="width:20%;float:right;padding-left:25px">
 <img src=book_small.jpg>
 <span style="font-size:smaller">
 </span>
