@@ -18,4 +18,11 @@ Participating students will prepare basic theoretical concepts, simple python-ba
 Wednesdays 11:00-12:30, begin November 2, 2016
 Room to be announced
 
+## Programme
+
+| Date  |   Topic |  Students |   Misc |  
+|---|---|---|---|
+|  Nov 1  |  GitHub |   | Introduction, Applications |
+|   |   |   |   |
+|   |   |   |   |
 
