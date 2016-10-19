@@ -13,3 +13,9 @@ This course aims at discussing advanced computational methods in seismology, ext
 
 ## Format
 Participating students will prepare basic theoretical concepts, simple python-based notebooks, and possibly report on some applications of methodologies in geosciences.
+
+## Date and Location
+Wednesdays 11:00-12:30, begin November 2, 2016
+Room to be announced
+
+
