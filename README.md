@@ -22,7 +22,7 @@ Room to be announced
 
 | Date  |   Topic |  Students |   Misc |  
 |---|---|---|---|
-|  Nov 2  |  GitHub |   | Introduction, Applications |
+|  Nov 2  |  GitHub |  T. Megies | Introduction, Applications |
 |  Nov 9  |   |   |   |
 |  Nov 16 |   |   |   |
 |  Nov 23 |   |   |   |
