@@ -38,5 +38,9 @@ Room to be announced
 * Optimal Operators (Geller), update notebook with analytical solution, quantify accuracy
 * Introduction to homogenization, develop simple notebook with example for acoustic wave equation
 * Simple flux schemes in the finite-volume method, test on extremely heterogeneous case, compare with finite-difference method
+* Improved finite-difference techniques (summation by parts), development of simple 1D and/or 2D notebooks
+* Octree meshes for boundaries, develop notebook from Matlab code (Varduhn)
+* The discontinuous Galerkin method, basic theory, fluxes, heterogeneous case, applications
+* Parallel programming with (python-) mpi, simple examples
 
  
