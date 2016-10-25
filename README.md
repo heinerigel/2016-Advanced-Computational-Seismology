@@ -24,8 +24,8 @@ Room to be announced
 |---|---|---|---|
 |  Nov 2  |  GitHub |  T. Megies | Introduction, Applications |
 |  Nov 9  |  Optimal FD operators (Geller) |  T. Taufiqurrahman  | Notebook ready  |
-|  Nov 16 |  SE on planets | R, Joshi   | Notebooks in seismolive or other   |
-|  Nov 23 |   |   |   |
+|  Nov 16 |  SE on planets | R. Joshi   | Notebooks in seismolive or other   |
+|  Nov 23 |  FD summation by parts | K. Duru   | New notebooks?  |
 |  Nov 30 |   |   |   |
 |  Dec  7  |   |   |   |
 |  Dec 21 |   |   |   |
