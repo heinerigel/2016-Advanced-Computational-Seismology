@@ -23,8 +23,8 @@ Room to be announced
 | Date  |   Topic |  Presenters |   Misc |  
 |---|---|---|---|
 |  Nov 2  |  GitHub |  T. Megies | Introduction, Applications |
-|  Nov 9  |   |   |   |
-|  Nov 16 |   |   |   |
+|  Nov 9  |  Optimal FD operators (Geller) |  T. Taufiqurrahman  | Notebook ready  |
+|  Nov 16 |  SE on planets | R, Joshi   | Notebooks in seismolive or other   |
 |  Nov 23 |   |   |   |
 |  Nov 30 |   |   |   |
 |  Dec  7  |   |   |   |
@@ -42,5 +42,6 @@ Room to be announced
 * Octree meshes for boundaries, develop notebook from Matlab code (Varduhn)
 * The discontinuous Galerkin method, basic theory, fluxes, heterogeneous case, applications
 * Parallel programming with (python-) mpi, simple examples
+* Simulation of planetary objects (e.g. Instaseis)
 
  
