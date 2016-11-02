@@ -26,10 +26,10 @@ Room C111
 |  Nov 9  |  Optimal FD operators (Geller) |  T. Taufiqurrahman  | Notebook ready  |
 |  Nov 16 |  SE on planets | R. Joshi   | Notebooks in seismolive or other   |
 |  Nov 23 |  FD summation by parts | K. Duru   | New notebooks?  |
-|  Nov 30 |   |   |   |
-|  Dec  7  |   |   |   |
-|  Dec 21 |   |   |   |
-|  Jan 18 |   |   |   |
+|  Nov 30 |  FE linear  | B. Chow, A. Verna | Notebooks  seismo-live  |
+|  Dec  7  | FV method  | S. Anger, H. Khoshkhoo   | Notebooks  seismo-live  |
+|  Dec 21 | DG method  |  A. Rijal, S. Singh |  Notebooks  seismo-live |
+|  Jan 18 | Parallel programming  |  D. Vargas | New notebook with PythonMPI  |
 |  Jan 25 |   |   |   |
 |  Feb  1 |   |   |   |
 
