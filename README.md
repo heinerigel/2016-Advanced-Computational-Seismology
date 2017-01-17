@@ -29,9 +29,8 @@ Room C111
 |  Dec 2 | Special Seminar Supercomputing in Earth Science | H. Igel, T. Thiel | 18:00 Luisenstr. 37 C106 |
 |  Dec 7 |  FE linear  | B. Chow, A. Verna | Notebooks  seismo-live  |
 |  Dec 14  | FV method  | S. Anger, H. Khoshkhoo   | Notebooks  seismo-live  |
-|  Dec 21 | DG method  |  A. Rijal, S. Singh |  Notebooks  seismo-live |
 |  Jan 18 | Parallel programming  |  D. Vargas | New notebook with PythonMPI  |
-|  Jan 25 |   |   |   |
+|  Jan 25 | DG method  |  A. Rijal, S. Singh |  Notebooks  seismo-live |
 |  Feb  1 |   |   |   |
 
 ## Potential topics
