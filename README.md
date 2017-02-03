@@ -31,6 +31,7 @@ Room C111
 |  Dec 14  | FV method  | S. Anger, H. Khoshkhoo   | Notebooks  seismo-live  |
 |  Jan 25 | DG method  |  A. Rijal, S. Singh |  Notebooks  seismo-live |
 |  Feb 1 | Parallel programming  |  D. Vargas | New notebook with PythonMPI  |
+|  Feb 8 | Parallel programming Part 2  |  D. Vargas | New notebook with PythonMPI  |
 
 
 ## Potential topics
